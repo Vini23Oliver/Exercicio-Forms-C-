@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoData", "CalculoData\CalculoData.csproj", "{DB3D90CE-2EC1-4AEC-AF3F-CD380C9164EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3D90CE-2EC1-4AEC-AF3F-CD380C9164EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3D90CE-2EC1-4AEC-AF3F-CD380C9164EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3D90CE-2EC1-4AEC-AF3F-CD380C9164EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3D90CE-2EC1-4AEC-AF3F-CD380C9164EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41DBF7A-2F39-4FA1-9E3C-E8DFC304960B}
+	EndGlobalSection
+EndGlobal
